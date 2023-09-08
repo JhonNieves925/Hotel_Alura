@@ -295,3 +295,9 @@ La pestaña de <em>Design</em> se abrirá por encima de la zona del <em>Console<
 💙 <strong>Alura Latam</strong></br>
 <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
+
+<p align="center" >
+https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1677508436Prancheta_1.png?utm_campaign=alura_latam_-_challenge_email_projeto_6_esp&utm_medium=email&utm_source=RD+Station
+</p>
