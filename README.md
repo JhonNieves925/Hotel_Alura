@@ -299,5 +299,6 @@ La pestaña de <em>Design</em> se abrirá por encima de la zona del <em>Console<
 
 
 <p align="center" >
-https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1677508436Prancheta_1.png?utm_campaign=alura_latam_-_challenge_email_projeto_6_esp&utm_medium=email&utm_source=RD+Station
+<img width="600" heigth="600" [cms_files_10224_1677508436Prancheta_1](https://github.com/JhonNieves925/Hotel_Alura/assets/117559339/93e6cc1d-29a7-475f-8bd9-fdf8db093197)>
+
 </p>
