@@ -1,19 +1,14 @@
 package Factory;
 
 import java.sql.Connection;
-import java.sql.SQLException;
 
-import javax.sql.CommonDataSource;
-import javax.sql.DataSource;
-
-import com.mchange.v2.c3p0.ComboPooledDataSource;
 
 public class ConexionBase {
 
 	public DataSource dataSou;
 
 	public ConexionBase() {
-		final CommonDataSource comboPool = new CommonDataSource();
+		ComboPooledDataSource comboPool = new ComboPooledDataSource();
 		comboPool.setJdbcUrl("jdbc:mysql://localhost/hotel_alura_co?serverTimezone=UTC&useLegacyDatetimeCode=false");
 		comboPool.setUser("root");
 		comboPool.setPassword("root");
