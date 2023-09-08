@@ -299,6 +299,7 @@ La pestaña de <em>Design</em> se abrirá por encima de la zona del <em>Console<
 
 
 <p align="center" >
-<img width="600" heigth="600" [cms_files_10224_1677508436Prancheta_1](https://github.com/JhonNieves925/Hotel_Alura/assets/117559339/93e6cc1d-29a7-475f-8bd9-fdf8db093197)>
+<img width="600" heigth="600" [cms_files_10224_1677508436Prancheta_1](src=https://github.com/JhonNieves925/Hotel_Alura/assets/117559339/93e6cc1d-29a7-475f-8bd9-fdf8db093197)>
+<img[cms_files_10224_1677508436Prancheta_1](https://github.com/JhonNieves925/Hotel_Alura/assets/117559339/75299a98-dfcc-4eee-9165-2e330e529246)>
 
 </p>
